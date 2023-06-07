@@ -2,7 +2,7 @@
 
 This project demonstrates a Python script in a Jupyter Notebook that imports football data from CSV files into PostgreSQL tables and establishes relationships between the tables. It utilizes pandas for data reading, psycopg2 for database connection, and SQLAlchemy for interaction with the database.
 
-The football data used in this project is sourced from the Kaggle dataset: [International Football Results from 1872 to 2017](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017).
+The football data used in this project is sourced from the Kaggle dataset: [International Football Results from 1872 to 2023](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017).
 
 ## Prerequisites
 
